@@ -5,4 +5,4 @@ public class Main {
         System.out.println("Мен Java бағдарламасын JVM арқылы іске қосып отырмын");
         System.out.println("Практикалық жұмыс аяқталды");
     }
-}git
+}
